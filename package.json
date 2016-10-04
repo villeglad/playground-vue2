@@ -1,0 +1,17 @@
+{
+  "name": "playground-vue2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "author": "Ville Glad ville.j.glad@gmail.com",
+  "dependencies": {
+    "vue": "^2.0.1",
+    "vue-router": "^2.0.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "laravel-elixir": "^6.0.0-11",
+    "laravel-elixir-vue-2": "^0.2.0",
+    "laravel-elixir-webpack-official": "^1.0.6"
+  }
+}
